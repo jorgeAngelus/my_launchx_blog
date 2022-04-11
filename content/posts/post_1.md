@@ -1,5 +1,5 @@
 ---
-title: "Primera semana del LAUNCH X"
+title: "Primeras semanas de LAUNCH X"
 date: 2022-04-10
 description: 'Mi travesía por Launch X'
 ---
