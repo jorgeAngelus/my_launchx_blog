@@ -8,7 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/jorgeAngelus/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Primera semana del LAUNCH X</title>
+      <title>La cultura de un desarrollador de Software</title>
+      <link>https://github.com/jorgeAngelus/my_launchx_blog/posts/intro/</link>
+      <pubDate>Sun, 10 Apr 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://github.com/jorgeAngelus/my_launchx_blog/posts/intro/</guid>
+      <description>Querido lector espero que estes muy bien, quiero compartirte mis ideas sobre la cultura de un desarrollador de sofware. Primero que nada creo que un desarrollador no debe conformarse jamás con lo que sabe, la tecnología va cambiando y tiene que actualizarse. Pienso que un desarrollador debe tener la hábilidad de entender los negocios y creo que tener una cultura diversa; siento que son de las cosas más necesarias aparte de las herramientas que se manejan en el día a día.</description>
+    </item>
+    
+    <item>
+      <title>Primeras semanas de LAUNCH X</title>
       <link>https://github.com/jorgeAngelus/my_launchx_blog/posts/post_1/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
